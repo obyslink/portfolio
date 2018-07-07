@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_0ad3e2e0f67ec340e4c125ccd4a1fbd061b7f72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_a8a1dcff5496c818adea585140d51c6d9cf61f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_626acb1232eabfb3ca46ad72b0fe12fe6dda4113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_1ea22c728f41ad9932ad888175cc1291d8c53165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5895b036e82cc205f3fe7c41d575cac6c73a4ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_54c9f4b30122cb22048122fea5293ad3c87f072e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1538ead07fe6f97b49037bb771ed12c25dd0a817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_8687649b7594c1aecbfd3feb98b7ea7cc9233eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\libs\AppRate_1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\AppRate_1.1_913a3ee1c9fd01357fc1af807388f146ac4830b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_bd70663a2536858342320d9948e881d7433a4a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_2b8cab27127c40b984c28b70e2426f5bdff29cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_cc5c3d877e051986c427a14854b2977a1d85d734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_094afbdd57daca1a6f39ac62fb5eca3ba415813a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c214cb5a6d432852f9016b06c50eaa54ddf95332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_7a8c0eb68109e0238e51201bc4e5d0b1e5486df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.9.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3487b276b268f340de7619d422617acf3aca3a94">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.onesignal-OneSignal-3.9.2_0f605c94a6c592a0dbe3930ed2ec455216ee0dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d930e33c181d0103afd8fbf07a914ec58f1197f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_6b77126caefb8e0ec2b94404219c0b59ef092092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ec9490561d84fc67fc6d17d09f949b55ecdadcb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_2a423c71b6df4315bdd4fc10de716fbb17a15812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_21c5feed20887f29cf3923f277c759901f0568a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_3c9ab46e8ace7c036e1fa9fb716e60b9c80c37a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_29db4c01c8701ae5b58fa0594435a66e9a1e94c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_c73f7949d266612335a82dad16bf0b62e65f5e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_e725f07799e9dffbde2ac9903fd751a392628688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_7d8ae8158c26b17f70b1af882e1c5b8790361a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_d5c95508025e04481a0a02c09e9be611bb31c4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_70b07b506e9b7a926dc8e48cbc7aca12bcc9d8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_49fd2160b194c60c4523a47b712651cfbfa088c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_9cf18770073eef19aff3a150e2f85a4d3d7e9d0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\OBINNA\AndroidStudioProjects\WebpageToAppConverter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_916db84335a85773d7a0738a67ca936657afedc9.jar" />
+    </item>
+
+</items>
